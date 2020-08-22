@@ -467,3 +467,14 @@ footer ul li
     width:20%;
   }
 }
+@media (max-width:750px)
+{
+  #skills
+  {
+    height:110vh;
+  }
+  #achievements
+  {
+    height:120vh;
+  }
+}
