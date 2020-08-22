@@ -201,7 +201,7 @@ footer ul li
     background: #ff497c;
     transition:0.5s;
     transform-origin:tansform right;
-    transform: scaleX(0.5) ; 
+    transform: scaleX(0.7) ; 
     z-index: -1;
      
   }
