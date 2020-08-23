@@ -318,7 +318,7 @@ nav ul li a:hover:before
 {
   color: rgb(17, 12, 12);
   text-shadow: 0 2px 0 rgba(0,0,0,0.5);
-  font-size: 60px;
+  font-size: 40px;
 }
 .hero img
 {
@@ -506,13 +506,13 @@ footer ul li
   .hero-content h1
   {
     color: rgb(27, 2, 2);
-    text-shadow: 0 3px 0 rgba(216, 51, 51, 0.5);
+    text-shadow: 0 2px 0 rgba(216, 51, 51, 0.5);
   }
   .hero-content p
 {
   color: rgb(17, 12, 12);
   text-shadow: 0 1px 0 rgba(0,0,0,0.5);
-  font-size: 50px;
+  font-size: 30px;
 }
   .container
   {
