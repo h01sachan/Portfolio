@@ -125,7 +125,7 @@ body{
 }
 .about-us
 {
-   background: url(image\minee.jpeg) no-repeat left;
+   background: url(image/minee.jpeg) no-repeat left;
    background-size: 55%;
    background-color: #fdfdfd;
    overflow: hidden;
@@ -175,7 +175,7 @@ body{
 }
 #skills
 {
-  background-image: url("image\joanna-kosinska-1_CMoFsPfso-unsplash.jpg");
+  background-image: url("image/joanna-kosinska-1_CMoFsPfso-unsplash.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-size: cover;
@@ -192,7 +192,7 @@ body{
 }
 #achievements
 {
-  background-image: url("image\artem-sapegin-b18TRXc8UPQ-unsplash.jpg");
+  background-image: url("image/artem-sapegin-b18TRXc8UPQ-unsplash.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-size: cover;
@@ -209,7 +209,7 @@ body{
 }
 #contacts
 {
-  background-image: url("image\pexels-moose-photos-1037992.jpg");
+  background-image: url("image/pexels-moose-photos-1037992.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-size: cover;
